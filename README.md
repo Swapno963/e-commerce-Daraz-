@@ -13,8 +13,8 @@ You can access the live site [here](https://blogify-teal-three.vercel.app/).
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Swapno963/Global_Goods.git
-   cd lwskart
+   git clone https://github.com/Swapno963/e-commerce-Daraz-.git
+   cd e-commerce
    ```
 
 2. Install dependencies:
