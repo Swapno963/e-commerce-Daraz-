@@ -14,6 +14,7 @@ You can access the live site [here](https://blogify-teal-three.vercel.app/).
 
    ```sh
    git clone https://github.com/Swapno963/e-commerce-Daraz-.git
+
    cd e-commerce
    ```
 
